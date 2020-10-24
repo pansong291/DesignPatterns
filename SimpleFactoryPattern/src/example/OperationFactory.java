@@ -1,4 +1,4 @@
-package calculate;
+package example;
 /**
  * 简单运算工厂类
  */

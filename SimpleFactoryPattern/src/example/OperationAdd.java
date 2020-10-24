@@ -1,4 +1,4 @@
-package calculate;
+package example;
 
 public class OperationAdd extends Operation {
     @Override

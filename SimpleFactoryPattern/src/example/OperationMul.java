@@ -1,4 +1,4 @@
-package calculate;
+package example;
 
 public class OperationMul extends Operation {
     @Override
